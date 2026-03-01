@@ -91,7 +91,7 @@ Windows Forms で開発したポートフォリオ作成支援ツールです。
 ## 👤 制作者
 
 - **名前**：HITOHINERI
-- **GitHub**：[github.com/WS-HITOHINERI](https://github.com/WS-HITOHINERI/PortfolioManager)
+- **GitHub**：[github.com/WS-HITOHINERI](https://github.com/WS-HITOHINERI/)
 
 ---
 
