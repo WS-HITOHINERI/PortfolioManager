@@ -44,7 +44,7 @@ Windows Forms で開発したポートフォリオ作成支援ツールです。
 ## 🚀 実行方法
 
 1. `.NET ランタイムは不要`（自己完結型でビルド済み）
-2. [PortfolioManager.zip](#) をダウンロードして展開
+2. [PortfolioManager.zip](https://github.com/WS-HITOHINERI/PortfolioManager/releases/download/v1.0.0/PortfolioManager.zip) をダウンロードして展開
 3. `PortfolioManager_v.1.0.0` フォルダー内の `PortfolioManager.exe` を実行
 
 ### 📂 サンプルデータの読み込み（任意）
@@ -91,7 +91,7 @@ Windows Forms で開発したポートフォリオ作成支援ツールです。
 ## 👤 制作者
 
 - **名前**：HITOHINERI
-- **GitHub**：[github.com/ WS-HITOHINERI]( https://github.com/WS-HITOHINERI/PortfolioManager)
+- **GitHub**：[github.com/WS-HITOHINERI](https://github.com/WS-HITOHINERI/PortfolioManager)
 
 ---
 
